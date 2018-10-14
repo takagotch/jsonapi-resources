@@ -3,6 +3,13 @@
 
 https://github.com/cerebris/jsonapi-resources
 
+
+```
+```
+
+```ruby
+```
+
 ```
 ```
 
